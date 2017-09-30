@@ -1,0 +1,30 @@
+div {
+    /*width: 100px;*/
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 100%;
+    background-image: url("../exercises/images/cooldog.jpg");
+    background-size: cover;
+    background-repeat: round;
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+
+.onedog {
+    border: 10px dashed aqua;
+}
+
+.twodog {
+    border: 10px double maroon;
+}
+
+.threedog {
+    border: 10px dotted blue;
+}
+
+.fourdog {
+    border: 10px ridge darkmagenta;
+}
