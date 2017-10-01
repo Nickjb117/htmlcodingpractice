@@ -1,0 +1,23 @@
+div {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border: 20px groove;
+    border-radius: 100%;
+    background-image: url(images/cooldog.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/*div {*/
+    /*width: 400px;*/
+    /*height: 200px;*/
+    /*border: 10px dashed red;*/
+    /*margin: 20px auto;*/
+/*}*/
+
+
+/*.div2 {*/
+    /*box-sizing: border-box;*/
+/*}*/
