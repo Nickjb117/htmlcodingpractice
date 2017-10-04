@@ -1,0 +1,34 @@
+html {
+    background-color: #00539f;
+}
+
+body {
+    width: 50%;
+    border: 5px solid black;
+    background-color: #00c957;
+    margin: 0 auto;
+}
+img {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 10px ridge gold;
+    border-radius: 100%;
+
+
+}
+
+#primary {
+    color: blue;
+    margin: 20px;
+}
+
+#secondary {
+    color: red;
+    margin: 20px;
+}
+
+p {
+    font-weight: bold;
+    margin: 20px;
+}

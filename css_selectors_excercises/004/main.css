@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+a:active {
+    color: fuchsia;
+}
