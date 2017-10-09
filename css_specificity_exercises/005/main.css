@@ -1,0 +1,7 @@
+.yellow {
+    color: yellow;
+}
+
+a[target] {
+    color: purple;
+}
